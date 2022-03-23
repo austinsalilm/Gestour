@@ -1,2 +1,4 @@
 # Ignore node modules file
 node_modules
+# Ignore authentication details
+auth.txt
