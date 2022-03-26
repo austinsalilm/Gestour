@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: "mongodb+srv://gestour_auth:DKByEqAubxd4K0Jd@gestour.tdxsw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-}
+    mongoURI: "mongodb+srv://gestour_auth:DKByEqAubxd4K0Jd@gestour.tdxsw.mongodb.net/gestour_auth?retryWrites=true&w=majority",
+    secretOrKey: "secret"
+};
